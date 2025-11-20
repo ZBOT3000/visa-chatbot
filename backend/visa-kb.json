@@ -1,0 +1,22 @@
+[
+    {"id":"processing-time-standard","text":"Standard tourist visa applications take 5–7 business days to process."},
+    {"id":"processing-time-express","text":"Express visa applications take 2–3 business days to process."},
+    {"id":"required-documents-passport","text":"A valid passport with at least 6 months remaining before expiry is required."},
+    {"id":"required-documents-photo","text":"You need to submit a recent passport-size photograph according to the visa guidelines."},
+    {"id":"required-documents-itinerary","text":"A detailed travel itinerary including flights and accommodation is required."},
+    {"id":"required-documents-financial","text":"You must provide proof of sufficient funds for your stay, such as bank statements."},
+    {"id":"required-documents-invitation","text":"Some visas require a letter of invitation from a host or organization in the destination country."},
+    {"id":"application-fees","text":"Visa application fees vary depending on the visa type and country; check the official fee schedule."},
+    {"id":"what-happens-next","text":"After submission, the application is reviewed by a consultant or visa officer. You will receive email updates at each step."},
+    {"id":"interview-requirement","text":"Some visa applications require an in-person or online interview at a consulate or visa center."},
+    {"id":"application-status","text":"You can check the status of your application online using your reference number."},
+    {"id":"visa-extension","text":"If you need to extend your visa, apply before your current visa expires and follow the extension procedures."},
+    {"id":"visa-denial","text":"If your visa application is denied, you will receive a reason and can appeal or reapply depending on the country’s rules."},
+    {"id":"processing-delays","text":"Delays may occur during peak travel seasons or due to incomplete documents. Always submit complete documentation."},
+    {"id":"children-visas","text":"Minors traveling with parents may require separate visa applications or parental consent forms."},
+    {"id":"group-applications","text":"For group travel, each traveler must submit their own application and required documents."},
+    {"id":"travel-insurance","text":"Some countries require proof of travel insurance covering the duration of your stay."},
+    {"id":"document-certification","text":"Certain documents may need to be notarized or translated officially before submission."},
+    {"id":"multiple-entry-visas","text":"If you plan multiple visits, you may apply for a multiple-entry visa. Check eligibility criteria."},
+    {"id":"urgent-processing","text":"For urgent travel, express or priority processing may be available for an additional fee."}
+  ]
