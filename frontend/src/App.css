@@ -1,0 +1,48 @@
+.app-shell {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 32px;
+  background: radial-gradient(circle at top, #ffffff 20%, #f2ecff 70%, #f3e5ff 100%);
+}
+
+.app-card {
+  width: min(1200px, 100%);
+  min-height: 700px;
+  border-radius: 40px;
+  padding: 64px clamp(24px, 8vw, 80px);
+  background: radial-gradient(circle at 25% 20%, #ffffff 0%, #fbe7ff 45%, #e7e2ff 70%, #dce8ff 100%);
+  box-shadow:
+    0 40px 120px rgba(96, 71, 255, 0.18),
+    inset 0 1px 0 rgba(255, 255, 255, 0.8);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 48px;
+}
+
+.hero {
+  text-align: center;
+  color: #1f1b2e;
+  font-weight: 500;
+}
+
+.hero h1 {
+  margin: 16px 0 0;
+  font-size: clamp(2rem, 3vw, 2.8rem);
+  font-weight: 600;
+  letter-spacing: -0.5px;
+}
+
+.sparkles-icon {
+  display: block;
+  margin: 0 auto;
+}
+
+@media (max-width: 768px) {
+  .app-card {
+    padding: 48px 20px;
+    min-height: 85vh;
+  }
+}
